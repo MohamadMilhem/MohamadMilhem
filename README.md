@@ -78,8 +78,8 @@ and full test coverage. Hardware-level understanding of instruction execution.
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamadMilhem&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadMilhem&layout=compact&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohamadMilhem&theme=default" alt="GitHub Stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamadMilhem&theme=default" alt="Top Languages" height="170" />
 </p>
 
 ---
